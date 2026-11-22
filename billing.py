@@ -1,4 +1,4 @@
-tax\_rate=0.20
+tax_rate=0.20
 
 class CustomerProfile:
     def __init__(self, user_id, email, password_hash, city, loyalty_points):
